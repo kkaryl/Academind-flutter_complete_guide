@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169904901169",
+    "firebase_url": "https://learning-5f135.firebaseio.com",
+    "project_id": "learning-5f135",
+    "storage_bucket": "learning-5f135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169904901169:android:c0b0fa494f05a75c799910",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169904901169-94255radmltjlt0r6eq6f1h8at4gfjh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr_SX-lvaAcA3NI6r6rcQhXMqAn13fxbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169904901169-94255radmltjlt0r6eq6f1h8at4gfjh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
